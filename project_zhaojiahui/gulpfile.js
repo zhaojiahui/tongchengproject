@@ -1,9 +1,11 @@
 var gulp = require('gulp');
 var gulpHtml = require('gulp-htmlmin');
+var gulpCss = require('gulp-cssnano');
 var sass = require('gulp-sass');
 var gulpJs = require('gulp-uglify');
 var concat = require('gulp-concat');
 var gulpImg = require('gulp-smushit');
+var gulpImg = require('gulp-imagemin');
 var options = {
         removeComments: true,//清除HTML注释
         collapseWhitespace: true,//压缩HTML
@@ -24,6 +26,15 @@ gulp.task('taskHtml', function () {
 		stream: true
 	}))
 })
+//压缩css
+gulp.task('taskCss', function() {
+    gulp.src('./src/css/*.css')
+    .pipe(sass())
+    .pipe(gulp.dest('./dist/css'))
+    .pipe(browserSync.reload({
+      stream: true
+    }));
+})
 //压缩sass
 gulp.task('sass', function() {
     gulp.src('./src/css/*.scss')
@@ -36,7 +47,7 @@ gulp.task('sass', function() {
 //压缩js
 gulp.task('taskJs', function () {
 	gulp.src('./src/js/*.js')
-	.pipe(concat('all.js'))
+	// .pipe(concat('all.js'))
 	.pipe(gulpJs())
 	.pipe(gulp.dest('./dist/js'))
 	.pipe(browserSync.reload({
@@ -48,6 +59,18 @@ gulp.task('taskImg', function () {
 	gulp.src('./src/img/*.{jpg,png,gif}')
 	.pipe(gulpImg({verbose:true}))
 	.pipe(gulp.dest('./dist/images'))
+	.pipe(browserSync.reload({
+		stream: true
+	}))
+})
+//压缩本地图片
+gulp.task('taskImgB', function () {
+	gulp.src('./src/img/*.{jpg,png,gif}')
+	.pipe(gulpImg())
+	.pipe(gulp.dest('./dist/images'))
+	.pipe(browserSync.reload({
+		stream: true
+	}))
 })
 
 //浏览器同步
@@ -58,9 +81,12 @@ gulp.task('servers', function () {
 		console.log(bs.options.getIn('urls', 'local'));
 	});
 	gulp.watch('src/*.html', ['taskHtml']);
+	gulp.watch('src/css/*.css', ['taskCss']);
 	gulp.watch('src/css/*.scss', ['sass']);
 	gulp.watch('src/js/*.js', ['taskJs']);
+	gulp.watch('src/js/*.{png,jpg,gif}', ['taskImg']);
+	gulp.watch('src/js/*.{png,jpg,gif}', ['taskImgB']);
 })
 //执行多个任务
-gulp.task('mainTask', ['taskHtml', 'sass', 'taskJs', 'servers']);
+gulp.task('mainTask', ['taskHtml', 'taskCss', 'sass', 'taskJs', 'taskImg', 'taskImgB', 'servers']);
 

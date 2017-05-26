@@ -1,0 +1,1 @@
+define([],function(){return{shouyePlay:function(){new Swiper(".swiper-container",{pagination:".swiper-pagination",paginationClickable:!0,spaceBetween:30})}}});

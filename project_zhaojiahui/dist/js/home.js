@@ -1,0 +1,1 @@
+define([],function(){return{clickpic:function(n){new Swiper(".swiper-container",{pagination:".swiper-pagination",paginationClickable:!0,spaceBetween:30,centeredSlides:!0,autoplay:2500,autoplayDisableOnInteraction:!1})}}});

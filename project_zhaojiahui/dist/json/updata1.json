@@ -1,0 +1,370 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "result": {
+        "pn": 0,
+        "page_count": 21,
+        "list": [
+            {
+                "product_id": "2194322833735680",
+                "product_name": "华为 【荣耀V8】 金色 全网通 64 G 国行 9成新 运行内存4GB",
+                "model_attr_name": "华为 【荣耀V8】 金色 全网通 64 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01c14096c43e56438f.jpg",
+                    "big": "http://p0.qhmsg.com/t012d57a5707921989c.jpg",
+                    "mid": "http://p0.qhmsg.com/t01f875c831e0e58ffc.jpg",
+                    "min": "http://p0.qhmsg.com/t011dd71d857ed65919.jpg"
+                },
+                "price": 1699,
+                "com_price": "2599",
+                "discount": 6.5,
+                "chengse": "1604"
+            },
+            {
+                "product_id": "2194334517009408",
+                "product_name": "华为 【荣耀8】 黑色 全网通 64 G 国行 9成新 运行内存4GB",
+                "model_attr_name": "华为 【荣耀8】 黑色 全网通 64 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01b4ac28bb7914e4cb.jpg",
+                    "big": "http://p0.qhmsg.com/t015e26613882160280.jpg",
+                    "mid": "http://p0.qhmsg.com/t01ae05c852383402d9.jpg",
+                    "min": "http://p0.qhmsg.com/t012975a043ba697ea5.jpg"
+                },
+                "price": 1699,
+                "com_price": "2299",
+                "discount": 7.4,
+                "chengse": "1604"
+            },
+            {
+                "product_id": "2194277716942848",
+                "product_name": "三星 【GALAXY S6】 全网通 金色 32 G 国行 9成新 ",
+                "model_attr_name": "三星 【GALAXY S6】 全网通 金色 32 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01048d26823a8ee323.jpg",
+                    "big": "http://p0.qhmsg.com/t01260220c67d5c1a88.jpg",
+                    "mid": "http://p0.qhmsg.com/t01c616e0942b05e6ce.jpg",
+                    "min": "http://p0.qhmsg.com/t01989517f0315765bc.jpg"
+                },
+                "price": 1299,
+                "com_price": "5288",
+                "discount": 2.5,
+                "chengse": "1604"
+            },
+            {
+                "product_id": "2194281094217728",
+                "product_name": "华为 【Nova】 黑色 全网通 64 G 国行 95成新 运行内存4GB",
+                "model_attr_name": "华为 【Nova】 黑色 全网通 64 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016cbd13601043a661.jpg",
+                    "big": "http://p0.qhmsg.com/t014373cfd05019e9c9.jpg",
+                    "mid": "http://p0.qhmsg.com/t01add83bbae25955ca.jpg",
+                    "min": "http://p0.qhmsg.com/t0108460d12e29445b2.jpg"
+                },
+                "price": 1299,
+                "com_price": "",
+                "discount": 0,
+                "chengse": "1603"
+            },
+            {
+                "product_id": "2194246316089344",
+                "product_name": "小米 【小米5C】 移动 4G/3G/2G 黑色 64 G 国行 95成新 运行内存3GB",
+                "model_attr_name": "小米 【小米5C】 移动 4G/3G/2G 黑色 64 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01d1363586474b3ffc.jpg",
+                    "big": "http://p0.qhmsg.com/t01af21d3f5eecec437.jpg",
+                    "mid": "http://p0.qhmsg.com/t017ae4482733bd8d93.jpg",
+                    "min": "http://p0.qhmsg.com/t019c117aa464aa2667.jpg"
+                },
+                "price": 1399,
+                "com_price": "",
+                "discount": 0,
+                "chengse": "1603"
+            },
+            {
+                "product_id": "2194123272903680",
+                "product_name": "oppo 【R9S】 全网通 黑色 64 G 国行 95成新 ",
+                "model_attr_name": "oppo 【R9S】 全网通 黑色 64 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t018a00e5218add8200.png",
+                    "big": "http://p0.qhmsg.com/t010da677667e6e4b85.png",
+                    "mid": "http://p0.qhmsg.com/t018ca8b16f5c6c65b3.png",
+                    "min": "http://p0.qhmsg.com/t01db7c98a685f2c3b9.png"
+                },
+                "price": 1999,
+                "com_price": "2799",
+                "discount": 7.1,
+                "chengse": "1603"
+            },
+            {
+                "product_id": "2194075628728320",
+                "product_name": "vivo 【X6 Plus】 全网通 金色 64 G 国行 9成新 ",
+                "model_attr_name": "vivo 【X6 Plus】 全网通 金色 64 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t017ad7c0b442a6c6fd.jpg",
+                    "big": "http://p0.qhmsg.com/t013551b787f5412749.jpg",
+                    "mid": "http://p0.qhmsg.com/t0102d75a66320a86c2.jpg",
+                    "min": "http://p0.qhmsg.com/t019f4d19c2a74d875d.jpg"
+                },
+                "price": 1299,
+                "com_price": "3198",
+                "discount": 4.1,
+                "chengse": "1604"
+            },
+            {
+                "product_id": "2194045259161600",
+                "product_name": "小米 【小米5S Plus】 全网通 灰色 128G 国行 95成新 运行内存6GB",
+                "model_attr_name": "小米 【小米5S Plus】 全网通 灰色 128G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0194b2ca82b17f1fd5.jpg",
+                    "big": "http://p0.qhmsg.com/t01d83ab8ba352c9e43.jpg",
+                    "mid": "http://p0.qhmsg.com/t01cd2f8c8265e5cc13.jpg",
+                    "min": "http://p0.qhmsg.com/t013e3508046e19e662.jpg"
+                },
+                "price": 1999,
+                "com_price": "2299",
+                "discount": 8.7,
+                "chengse": "1603"
+            },
+            {
+                "product_id": "2193951467843584",
+                "product_name": "魅族 【mx5e】 移动联通 4G/3G/2G 银色 16 G 国行 全新 全新未拆封",
+                "model_attr_name": "魅族 【mx5e】 移动联通 4G/3G/2G 银色 16 G 国行 全新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01504270dd04ed8f4f.jpg",
+                    "big": "http://p0.qhmsg.com/t01e6bdd85877c3bb1a.jpg",
+                    "mid": "http://p0.qhmsg.com/t019475baaad291e2f1.jpg",
+                    "min": "http://p0.qhmsg.com/t01fbf5c6d260b45f1e.jpg"
+                },
+                "price": 1099,
+                "com_price": "",
+                "discount": 0,
+                "chengse": "1601"
+            },
+            {
+                "product_id": "2194258858442752",
+                "product_name": "oppo 【R9】 玫瑰金 64 G 国行 全网通 9成新 ",
+                "model_attr_name": "oppo 【R9】 玫瑰金 64 G 国行 全网通 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01c5824eec1f7a7402.jpg",
+                    "big": "http://p0.qhmsg.com/t0153181315c7837b17.jpg",
+                    "mid": "http://p0.qhmsg.com/t01e4764218dcfd108f.jpg",
+                    "min": "http://p0.qhmsg.com/t01d2fa9da96d4f8a9b.jpg"
+                },
+                "price": 1588,
+                "com_price": "2999",
+                "discount": 5.3,
+                "chengse": "1604"
+            },
+            {
+                "product_id": "2194073172647936",
+                "product_name": "三星 【Galaxy S7】 全网通 黑色 32 G 国行 9成新 ",
+                "model_attr_name": "三星 【Galaxy S7】 全网通 黑色 32 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01da6dfc4492df03b3.jpg",
+                    "big": "http://p0.qhmsg.com/t0120693b887c947463.jpg",
+                    "mid": "http://p0.qhmsg.com/t015f74a18254450610.jpg",
+                    "min": "http://p0.qhmsg.com/t010497b5dcdc0a61f7.jpg"
+                },
+                "price": 2399,
+                "com_price": "4088",
+                "discount": 5.9,
+                "chengse": "1604"
+            },
+            {
+                "product_id": "2194014333721600",
+                "product_name": "苹果 【iPhone 6S Plus】 全网通 玫瑰金 16 G 国行 9成新 ",
+                "model_attr_name": "苹果 【iPhone 6S Plus】 全网通 玫瑰金 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01c955cd9a76c02935.jpg",
+                    "big": "http://p0.qhmsg.com/t01c6db2a54f3108e1a.jpg",
+                    "mid": "http://p0.qhmsg.com/t01dfcb0f58c3e87530.jpg",
+                    "min": "http://p0.qhmsg.com/t01a095abdc12bfed91.jpg"
+                },
+                "price": 2999,
+                "com_price": "6888",
+                "discount": 4.4,
+                "chengse": "1604"
+            },
+            {
+                "product_id": "2194116836121600",
+                "product_name": "苹果 【iPhone 7】 银色 全网通 128G 国行 9成新 ",
+                "model_attr_name": "苹果 【iPhone 7】 银色 全网通 128G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01af55a976bd61be8e.jpg",
+                    "big": "http://p0.qhmsg.com/t013f5c94d2dd4735e1.jpg",
+                    "mid": "http://p0.qhmsg.com/t01ae2c460bf858d9f3.jpg",
+                    "min": "http://p0.qhmsg.com/t014bdf6b3d47a48fe1.jpg"
+                },
+                "price": 4449,
+                "com_price": "6888",
+                "discount": 6.5,
+                "chengse": "1604"
+            },
+            {
+                "product_id": "2194184469381120",
+                "product_name": "苹果 【iPhone 6 Plus】 移动 4G/3G/2G 灰色 64 G 国行 9成新 ",
+                "model_attr_name": "苹果 【iPhone 6 Plus】 移动 4G/3G/2G 灰色 64 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01eca8af0f18cf6503.jpg",
+                    "big": "http://p0.qhmsg.com/t01bd9250b032773849.jpg",
+                    "mid": "http://p0.qhmsg.com/t0113c9cce210972162.jpg",
+                    "min": "http://p0.qhmsg.com/t01d12779eb311b6557.jpg"
+                },
+                "price": 2750,
+                "com_price": "6088",
+                "discount": 4.5,
+                "chengse": "1604"
+            },
+            {
+                "product_id": "2194202662793216",
+                "product_name": "苹果 【iPhone 6S Plus】 全网通 玫瑰金 128G 国行 95成新 ",
+                "model_attr_name": "苹果 【iPhone 6S Plus】 全网通 玫瑰金 128G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01c955cd9a76c02935.jpg",
+                    "big": "http://p0.qhmsg.com/t01c6db2a54f3108e1a.jpg",
+                    "mid": "http://p0.qhmsg.com/t01dfcb0f58c3e87530.jpg",
+                    "min": "http://p0.qhmsg.com/t01a095abdc12bfed91.jpg"
+                },
+                "price": 3499,
+                "com_price": "6888",
+                "discount": 5.1,
+                "chengse": "1603"
+            },
+            {
+                "product_id": "2194210523700224",
+                "product_name": "苹果 【iPhone 6S】 移动联通 4G/3G/2G 玫瑰 金 16 G 港澳台 9成新 ",
+                "model_attr_name": "苹果 【iPhone 6S】 移动联通 4G/3G/2G 玫瑰 金 16 G 港澳台 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t012c3dfc6185a356e3.jpg",
+                    "big": "http://p0.qhmsg.com/t014acb4a7d052ec5f6.jpg",
+                    "mid": "http://p0.qhmsg.com/t01ae5c25a250c9698d.jpg",
+                    "min": "http://p0.qhmsg.com/t015aaca9c24708c7de.jpg"
+                },
+                "price": 2399,
+                "com_price": "6088",
+                "discount": 3.9,
+                "chengse": "1604"
+            },
+            {
+                "product_id": "2194229217230848",
+                "product_name": "苹果 【iPhone 7】 黑色 全网通 128G 国行 9成新 ",
+                "model_attr_name": "苹果 【iPhone 7】 黑色 全网通 128G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e477acb3f637da4b.jpg",
+                    "big": "http://p0.qhmsg.com/t01fd32e50589ad5222.jpg",
+                    "mid": "http://p0.qhmsg.com/t013f4f0aee0a7417b6.jpg",
+                    "min": "http://p0.qhmsg.com/t0104b34b3aaee78c2a.jpg"
+                },
+                "price": 4449,
+                "com_price": "6888",
+                "discount": 6.5,
+                "chengse": "1604"
+            },
+            {
+                "product_id": "2193856490008576",
+                "product_name": "苹果 【iPhone 6】 全网通 灰色 16 G 国行 9成新 ",
+                "model_attr_name": "苹果 【iPhone 6】 全网通 灰色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t014219e83ccaf6ab12.jpg",
+                    "big": "http://p0.qhmsg.com/t0133dabd104979face.jpg",
+                    "mid": "http://p0.qhmsg.com/t013fcb04446da5c799.jpg",
+                    "min": "http://p0.qhmsg.com/t01d130c924c94e1eb4.jpg"
+                },
+                "price": 1750,
+                "com_price": "5288",
+                "discount": 3.3,
+                "chengse": "1604"
+            },
+            {
+                "product_id": "2150013479600128",
+                "product_name": "vivo 【X6 Plus】 移动联通 4G/3G/2G 玫瑰金 64 G 国行 9成新 ",
+                "model_attr_name": "vivo 【X6 Plus】 移动联通 4G/3G/2G 玫瑰金 64 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t019a854162f2af7cb6.jpg",
+                    "big": "http://p0.qhmsg.com/t0111112faaa99a3707.jpg",
+                    "mid": "http://p0.qhmsg.com/t01c557337a8f5b4228.jpg",
+                    "min": "http://p0.qhmsg.com/t01d13abc05dc8bf5db.jpg"
+                },
+                "price": 1050,
+                "com_price": "3198",
+                "discount": 3.3,
+                "chengse": "1604"
+            },
+            {
+                "product_id": "2152972162849792",
+                "product_name": "vivo 【X6 Plus】 全网通 金色 64 G 国行 9成新 ",
+                "model_attr_name": "vivo 【X6 Plus】 全网通 金色 64 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t017ad7c0b442a6c6fd.jpg",
+                    "big": "http://p0.qhmsg.com/t013551b787f5412749.jpg",
+                    "mid": "http://p0.qhmsg.com/t0102d75a66320a86c2.jpg",
+                    "min": "http://p0.qhmsg.com/t019f4d19c2a74d875d.jpg"
+                },
+                "price": 1050,
+                "com_price": "3198",
+                "discount": 3.3,
+                "chengse": "1604"
+            },
+            {
+                "product_id": "2145753264954368",
+                "product_name": "vivo 【X6 Plus】 全网通 金色 64 G 国行 9成新 ",
+                "model_attr_name": "vivo 【X6 Plus】 全网通 金色 64 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t017ad7c0b442a6c6fd.jpg",
+                    "big": "http://p0.qhmsg.com/t013551b787f5412749.jpg",
+                    "mid": "http://p0.qhmsg.com/t0102d75a66320a86c2.jpg",
+                    "min": "http://p0.qhmsg.com/t019f4d19c2a74d875d.jpg"
+                },
+                "price": 1050,
+                "com_price": "3198",
+                "discount": 3.3,
+                "chengse": "1604"
+            },
+            {
+                "product_id": "2142022792962048",
+                "product_name": "苹果 【iPhone 6】 全网通 金色 16 G 国行 9成新 ",
+                "model_attr_name": "苹果 【iPhone 6】 全网通 金色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016f585d3222b8a2ee.jpg",
+                    "big": "http://p0.qhmsg.com/t013795b68ca0f3cf7f.jpg",
+                    "mid": "http://p0.qhmsg.com/t01247d457beaaaeff8.jpg",
+                    "min": "http://p0.qhmsg.com/t01d897d13005de09ac.jpg"
+                },
+                "price": 1750,
+                "com_price": "5288",
+                "discount": 3.3,
+                "chengse": "1604"
+            },
+            {
+                "product_id": "2150584303108096",
+                "product_name": "苹果 【iPhone 6】 全网通 灰色 16 G 美国 9成新 ",
+                "model_attr_name": "苹果 【iPhone 6】 全网通 灰色 16 G 美国 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t014219e83ccaf6ab12.jpg",
+                    "big": "http://p0.qhmsg.com/t0133dabd104979face.jpg",
+                    "mid": "http://p0.qhmsg.com/t013fcb04446da5c799.jpg",
+                    "min": "http://p0.qhmsg.com/t01d130c924c94e1eb4.jpg"
+                },
+                "price": 1750,
+                "com_price": "5288",
+                "discount": 3.3,
+                "chengse": "1604"
+            },
+            {
+                "product_id": "2151814146760704",
+                "product_name": "苹果 【iPhone 6】 全网通 银色 16 G 国行 9成新 ",
+                "model_attr_name": "苹果 【iPhone 6】 全网通 银色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01bd4582509105ff77.jpg",
+                    "big": "http://p0.qhmsg.com/t010ab1f5efb21f7035.jpg",
+                    "mid": "http://p0.qhmsg.com/t01a06d2dc74f19c28c.jpg",
+                    "min": "http://p0.qhmsg.com/t0195ab5df1e5434b30.jpg"
+                },
+                "price": 1750,
+                "com_price": "5288",
+                "discount": 3.3,
+                "chengse": "1604"
+            }
+        ]
+    }
+}

@@ -170,7 +170,8 @@ ul {
     height: 248px; }
     .imgs .swiper-container .swiper-slide {
       display: flex;
-      justify-content: space-between; }
+      background: #fff;
+      justify-content: space-around; }
       .imgs .swiper-container .swiper-slide .pic {
         height: 248px;
         float: left; }
@@ -215,7 +216,7 @@ ul {
     height: 248px;
     background: rgba(0, 0, 0, 0.5);
     position: absolute;
-    /*display: none;*/
+    display: none;
     top: 0;
     left: 0;
     z-index: 1;
